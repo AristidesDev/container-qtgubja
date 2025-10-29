@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "AristidesDev",
+  "repo": "container-qtgubja",
+  "name": "AristidesDev",
+  "email": "aristides.gutierrez@gmail.com",
+}
